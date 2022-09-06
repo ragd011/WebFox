@@ -23,14 +23,14 @@ The basic operation is as follows:
   7.) On the web interface, click start and submit to start the fox  
   8.) When done, either remove power or click stop and submit in the interface  
 
-Wiring:
-https://resource.heltec.cn/download/WiFi_Kit_32/WIFI_Kit_32_pinoutDiagram_V2.pdf
-Red wire from cable to pin 27
-Pin 26 connects to relay IN
-5V to relay DC+
-GND to Relay DC-
-Relay Jumperset to H
-Green wire to NO
-Black wire to COM
-
+Wiring:  
+https://resource.heltec.cn/download/WiFi_Kit_32/WIFI_Kit_32_pinoutDiagram_V2.pdf  
+Red wire from cable to pin 27  
+Pin 26 connects to relay IN  
+5V to relay DC+  
+GND to Relay DC-  
+Relay Jumperset to H  
+Green wire to NO  
+Black wire to COM  
+  
 Schematic to come.

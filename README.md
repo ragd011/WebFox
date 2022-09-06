@@ -25,11 +25,11 @@ The basic operation is as follows:
 
 Wiring:  
 https://resource.heltec.cn/download/WiFi_Kit_32/WIFI_Kit_32_pinoutDiagram_V2.pdf  
-Red wire from cable to pin 27  
-Pin 26 connects to relay IN  
+Red wire from cable to pin 27 -> This is the audio from arduino to readio  
+Pin 26 connects to relay IN -> This triggers the relay to engage the PTT  
 5V to relay DC+  
 GND to Relay DC-  
-Relay Jumperset to H  
+Relay Jumper set to H  
 Green wire to NO  
 Black wire to COM  
   
